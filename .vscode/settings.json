@@ -1,0 +1,5 @@
+{
+  "code-runner.executorMap": {
+    "java": "cd \"$workspaceRoot\" && javac -d out -sourcepath src src/supermarket/main.java && java -cp out supermarket.main"
+  }
+}

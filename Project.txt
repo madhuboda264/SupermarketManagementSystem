@@ -1,0 +1,4 @@
+102|Milk|Dairy|40.0|15
+103|Bread|Bakery|45.0|10
+101|Rice|Grocery|60.0|20
+104|Ice Cream|Frozen Foods|80.0|1
